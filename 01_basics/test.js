@@ -10,7 +10,7 @@ let accountState;
 
 // can't change const value
 /*
-prefer not use var
+prefer not to use var
 because of issue with block scope and functional scope
 */
 
